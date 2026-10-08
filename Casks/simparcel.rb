@@ -1,6 +1,6 @@
 cask "simparcel" do
-  version "1.0.1"
-  sha256 "a9780b1118ea20e3b45102b3c97facef0a03bf913adf3635a9669bcb20d4e4d1"
+  version "1.0.2"
+  sha256 "9b3e85d22bce81afb04829ab3a9eeb72663f78097141d25a2d774120731f86df"
 
   url "https://github.com/vadimkatenin/SimParcel/releases/download/v#{version}/SimParcel-#{version}.zip"
   name "SimParcel"
